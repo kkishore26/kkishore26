@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkishore26" alt="kkishore26" /></a> </p>
 
-- 🌱 I’m currently learning **CSS, Data Structures & Algorithms, JavaScript**
+- 🌱 I’m currently learning **CSS, Data Structures & Algorithms, Django**
 
-- 💬 Ask me about **HTML, Java**
+- 💬 Ask me about **HTML, Java, Python**
 
 - 📫 How to reach me **kkishore5943@gmail.com**
 
