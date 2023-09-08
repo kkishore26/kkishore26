@@ -1,25 +1,27 @@
 <h1 align="center">Hi 👋, I'm Kamal Kishore</h1>
-<h3 align="center">Just another student.</h3>
+<h3 align="center">Backend Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkishore26" alt="kkishore26" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kksihore26&label=Profile%20views&color=0e75b6&style=flat" alt="kksihore26" /> </p>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, SQL**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kksihore26" alt="kksihore26" /></a> </p>
 
-- 💬 Ask me about **HTML, Django, Python**
+- 🌱 I’m currently learning **Data Structures & algorithms, SQL**
+
+- 💬 Ask me about **HTML, Python, Django**
 
 - 📫 How to reach me **kkishore5943@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/kkishore26" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="Kamal's LinkedIn" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/kamalkishore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamal's LeetCode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kkishore26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kkishore26" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kamalkishore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamalkishore" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" alt="Django" width="80" height="40"/> </a>
-  <a> href="https://github.com/" target="_black" rel="noreferrer"> img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" alt="Github" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkishore26&show_icons=true&locale=en&layout=compact" alt="kkishore26" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kksihore26&show_icons=true&locale=en&layout=compact" alt="kksihore26" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkishore26&" alt="kkishore26" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kksihore26&show_icons=true&locale=en" alt="kksihore26" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kksihore26&" alt="kksihore26" /></p>
