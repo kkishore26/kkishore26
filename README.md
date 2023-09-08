@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkishore26" alt="kkishore26" /></a> </p>
 
-- 🌱 I’m currently learning **CSS, Data Structures & Algorithms, Django**
+- 🌱 I’m currently learning **Data Structures & Algorithms, SQL**
 
-- 💬 Ask me about **HTML, Java, Python**
+- 💬 Ask me about **HTML, Django, Python**
 
 - 📫 How to reach me **kkishore5943@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/3amcoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3amcoding" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/kamalkishore26" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://cdn-icons-png.flaticon.com/512/174/174857.png)" alt="Kamal's LinkedIn" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kamalkishore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamalkishore" height="30" width="40" /></a>
 </p>
 
